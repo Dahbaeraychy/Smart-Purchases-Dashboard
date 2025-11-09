@@ -82,7 +82,11 @@ These sketches show the evolution of the idea:
 | **Current Purchases Tab (Existing)** | A filtered inbox view showing all purchase-related emails, but without structure, insights, or clarity. It works, but users still have to open multiple emails to get basic information. |
 | **Improved Concept (Smart Dashboard)** | My redesigned version with analytics at the top, grouped purchase stages, and easy filters. Everything a user needs to know is visible at a glance, without opening emails one by one. |
 
-> *(Insert images here once you upload them to the repo – I will add the exact Markdown for you after upload.)*
+![Enhanced Purchases Tab](assets/image.png)
+* A simple breakdown of how the Purchases tab currently works: it’s basically a filtered list of purchase-related emails with no clear structure or insights. I sketched this to understand what already exists. *
+
+![Enhanced Purchases Tab](assets/image_two.png)
+* My upgraded version adds a small analytics summary at the top (spend, number of orders, top vendor), then shows the purchase emails below. * 
 
 ---
 
